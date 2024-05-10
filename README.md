@@ -10,7 +10,7 @@
 
 Languages I'm very experienced with:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,mysql&perline=3)](https://skillicons.dev)
 
 Languages I have experience in:
 
