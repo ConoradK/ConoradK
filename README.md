@@ -1,8 +1,8 @@
 ### Hello there friend 👋
 
 
-- 😄 I'm currently a second Year Software Engineering BSc student 
-- 🔭 I’m currently working on a website
+- 😄 I'm currently a Third Year Software Engineering BSc student 
+- 🔭 I’m currently working on an Android App
 - 🌱 I’m currently learning C#
 - 💬 Always open to collaborate with others
 - 📫 How to reach me: conradkomarnicki@gmail.com
